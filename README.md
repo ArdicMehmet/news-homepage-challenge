@@ -2,6 +2,8 @@
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
+Live : https://ardicmehmet.github.io/news-homepage-challenge/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
