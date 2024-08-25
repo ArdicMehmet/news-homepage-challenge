@@ -1,8 +1,8 @@
 # Frontend Mentor - News homepage
 
-![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
-
 Live : https://ardicmehmet.github.io/news-homepage-challenge/
+
+![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
